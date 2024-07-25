@@ -1,3 +1,6 @@
 [submodule "bnck-ms-wallet"]
 	path = bnck-ms-wallet
 	url = https://github.com/thgbianeck/bnck-ms-wallet.git
+[submodule "bnck-utils"]
+	path = bnck-utils
+	url = https://github.com/thgbianeck/bnck-utils.git
